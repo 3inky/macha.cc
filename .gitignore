@@ -1,0 +1,59 @@
+# Dependency directories
+node_modules/
+
+# Next.js build output
+.next/
+out/
+dist/
+
+# Production
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Yarn / npm
+.pnp/
+.pnp.js
+.yarn/*
+!/.yarn/cache
+!/.yarn/patches
+!/.yarn/releases
+!/.yarn/plugins
+!/.yarn/sdks
+!/.yarn/versions
+
+# Next.js Cache
+.next/cache/
+
+# Turbo / Nx (varsa)
+turbo/
+.turbo/
+nx-cache/
+
+# Misc
+*.log
