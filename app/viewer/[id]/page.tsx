@@ -10,6 +10,10 @@ const scripts: Record<string, { name: string; endpoint: string }> = {
     name: "Dex Explorer",
     endpoint: "/raw/dex",
   },
+  cursedsaken: {
+    name: "Cursedsaken",
+    endpoint: "/raw/cursedsaken"
+  }
 }
 
 export default async function ViewerPage({
