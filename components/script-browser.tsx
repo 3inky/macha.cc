@@ -48,7 +48,7 @@ const scripts = [
     id: "voidhub",
     name: "Void Hub",
     description: "Supports 92 gmaes. Key system is included.",
-    image: "/image/voidhub.jpeg",
+    image: "/images/voidhub.jpeg",
     author: "Voidhub",
   }
 ]
