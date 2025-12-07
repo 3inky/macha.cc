@@ -23,6 +23,12 @@ const scripts = [
     image: "/images/dex.jpeg",
     author: "WeAreDevs",
   },
+  {
+    id: "cursedsaken",
+    name: "Cursedsaken - Forsaken Script",
+    image: "/images/forsaken.webp",
+    author: "unknown",
+  }
 ]
 
 interface Executor {
