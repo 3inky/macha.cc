@@ -33,9 +33,16 @@ const scripts = [
   {
     id: "voidware",
     name: "Voidware Hub",
-    description: "Supports 99 NITF, Ink Game(can be patched), Bedwars, Forsaken",
+    description: "Supports 99 NITF, Ink Game(can be patched), Bedwars, Forsaken. No key.",
     image: "/images/voidware.webp",
     author: "VapeVoidware",
+  },
+  {
+    id: "preppyhub",
+    name: "Preppy Hub",
+    description: "Supports: Math Murder, Spelling Bee, Grow A Garden. No key.",
+    image: "/images/preppyhub.webp",
+    author: "PreppyHub",
   }
 ]
 
