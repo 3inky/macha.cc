@@ -29,6 +29,13 @@ const scripts = [
     description: "A OP and keyless function for Forsaken! (Undetected)",
     image: "/images/forsaken.webp",
     author: "unknown",
+  },
+  {
+    id: "voidware",
+    name: "Voidware Hub",
+    description: "Supports 99 NITF, Ink Game(can be patched), Bedwars, Forsaken",
+    image: "/images/voidware.webp",
+    author: "VapeVoidware",
   }
 ]
 

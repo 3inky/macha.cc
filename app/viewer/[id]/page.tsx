@@ -13,6 +13,10 @@ const scripts: Record<string, { name: string; endpoint: string }> = {
   cursedsaken: {
     name: "Cursedsaken",
     endpoint: "/raw/cursedsaken"
+  },
+  voidware: {
+    name: "Voidware Hub",
+    endpoint: "/raw/voidware"
   }
 }
 
