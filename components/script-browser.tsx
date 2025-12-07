@@ -26,6 +26,7 @@ const scripts = [
   {
     id: "cursedsaken",
     name: "Cursedsaken - Forsaken Script",
+    description: "A OP and keyless function for Forsaken! (Undetected)",
     image: "/images/forsaken.webp",
     author: "unknown",
   }
