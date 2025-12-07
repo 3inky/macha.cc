@@ -21,6 +21,10 @@ const scripts: Record<string, { name: string; endpoint: string }> = {
   preppyhub: {
     name: "Preppy Hub",
     endpoint: "/raw/preppyhub"
+  },
+  voidhub: {
+    name: "Void Hub",
+    endpoint: "/raw/voidhub"
   }
 }
 

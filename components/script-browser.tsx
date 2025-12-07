@@ -43,6 +43,13 @@ const scripts = [
     description: "Supports: Math Murder, Spelling Bee, Grow A Garden. No key.",
     image: "/images/preppyhub.webp",
     author: "PreppyHub",
+  },
+  {
+    id: "voidhub",
+    name: "Void Hub",
+    description: "Supports 92 gmaes. Key system is included.",
+    image: "/image/voidhub.jpeg",
+    author: "Voidhub",
   }
 ]
 
